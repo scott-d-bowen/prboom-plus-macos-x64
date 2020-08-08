@@ -1,5 +1,176 @@
+PrBoom Plus for macOS x64 (64-bit), designed for macOS Catalina (and hopefully future releases of macOS)
 
-These are the web resources I have used (so far) when figuring this out.
+
+These are the ~166 web resources I have used (so far) when figuring this out.
+Note: There will be duplicate Page Titles in this list until I clean 🧼 it up, which is a low priority.
 
 
+
+
+"relevant OpenGL development libraries" & "headers installed" to "compile with OpenGL" support - Google Search
+"relevant OpenGL development libraries" & "headers installed" to "compile with OpenGL" support - Google Search
++xcode No targets specified and no makefile found. Stop. - Google Search
++xcode No targets specified and no makefile found. Stop. - Google Search
+32-bit app compatibility with macOS High Sierra 10.13.4 and later – Apple Support
+About the OpenGL category - OpenGL - Khronos Forums
+About the OpenGL category - OpenGL - Khronos Forums
+Arch Linux - freepats-general-midi 20200725-1 (any)
+automake macos - Google Search
+automake macos - Google Search
+Blank window on macOS 10.14 · Issue #887 · kovidgoyal/kitty · GitHub
+Building opengl // OpenGL
+Building opengl // OpenGL
+Building OpenGL/GLUT Programs
+c - Compiling OpenGL and GLUT OSX - Stack Overflow
+c - make: *** No targets specified and no makefile found. Stop. on Xcode - Stack Overflow
+c++ - Building OpenGL applications not working in OSX 10.9 - Stack Overflow
+c++ - Building OpenGL applications not working in OSX 10.9 - Stack Overflow
+c++ - Compiling lsd_slam on OS X throws linking error ld: library not found for -lGL - Stack Overflow
+c++ - Compiling simple Hello World program on OS X via command line - Stack Overflow
+c++ - GLUT displays blank window - Stack Overflow
+c++ - How do I convert this OpenGL makefile from Linux to Mac OS X? - Stack Overflow
+c++ - ld: library not found for -lGL Error - Stack Overflow
+c++ - ld: library not found for -lGL Error - Stack Overflow
+c++ - ld: library not found for -lGL Error - Stack Overflow
+compile C++ mac - Google Search
+compile C++ mac - Google Search
+compile opengl app blank window macos catalina - Google Search
+compile opengl app blank window macos catalina - Google Search
+Creating configuration scripts and Makefiles using autoconf & automake
+Creating configuration scripts and Makefiles using autoconf & automake
+DB Browser for SQLite
+DOOM under Catalina - Google Search
+DOOM under Catalina - Google Search
+Download prboom-plus from SourceForge.net
+Download prboom-plus from SourceForge.net
+Download TiMidity++ from SourceForge.net
+Downloads - DB Browser for SQLite
+Find out more about prboom-plus | SourceForge.net
+Find out more about prboom-plus | SourceForge.net
+Find out more about TiMidity++ | SourceForge.net
+Fix Missing Headers Compiling on macOS Mojave — Donat Studios
+framework OpenGL framework GLUT macos - Google Search
+framework OpenGL framework GLUT macos - Google Search
+FreePats project - General MIDI sound sets
+Getting Started with OpenGL
+GitHub - larskanis/opengl: The official repository of the ruby-opengl wrapper
+GitHub - McNopper/OpenGL: OpenGL 3 and 4 with GLSL
+GitHub - McNopper/OpenGL: OpenGL 3 and 4 with GLSL
+GitHub - McNopper/OpenGL: OpenGL 3 and 4 with GLSL
+GitHub - McNopper/OpenGL: OpenGL 3 and 4 with GLSL
+GitHub - McNopper/OpenGL: OpenGL 3 and 4 with GLSL
+GitHub - McNopper/OpenGL: OpenGL 3 and 4 with GLSL
+GLUS - OpenGL SDK
+How to compile and run C/C++ in a Unix console/Mac terminal? - Stack Overflow
+How to Setup and Get Started with OpenGL in C++
+Is it possible to upgrade the OpenGL Drivers on my Mac Book Pro? : osx
+Is it possible to upgrade the OpenGL Drivers on my Mac Book Pro? : osx
+Khronos Forums - Khronos Standards community discussions
+Khronos Forums - Khronos Standards community discussions
+Khronos Forums - Khronos Standards community discussions
+Latest OpenGL topics - Khronos Forums
+ld: library not found for -lGL - Google Search
+ld: library not found for -lGL - Google Search
+ld: library not found for -lGL - Google Search
+ld: library not found for -lGL - Google Search
+ld: library not found for lGL - Google Search
+ld: library not found for lGL - Google Search
+ld: library not found for lGL - Google Search
+ld: library not found for lGL - Google Search
+macos - Compiling a C program that uses OpenGl in Mac OS X - Stack Overflow
+macos - How to install Autoconf, Automake and related tools on Mac OS X from source? - Super User
+MacOS/X OpenGL linking errors (CMake, C++) - GitHub Actions - GitHub Support Community
+MacOS/X OpenGL linking errors (CMake, C++) - GitHub Actions - GitHub Support Community
+MacOS/X OpenGL linking errors (CMake, C++) - GitHub Actions - GitHub Support Community
+MacOS/X OpenGL linking errors (CMake, C++) - GitHub Actions - GitHub Support Community
+MacOS/X OpenGL linking errors (CMake, C++) - GitHub Actions - GitHub Support Community
+MacOS/X OpenGL linking errors (CMake, C++) - GitHub Actions - GitHub Support Community
+MacOS/X OpenGL linking errors (CMake, C++) - GitHub Actions - GitHub Support Community
+MacOS/X OpenGL linking errors (CMake, C++) - GitHub Actions - GitHub Support Community
+make *** no targets specified and no makefile found. stop - Stack Overflow
+No targets specified and no makefile found. Stop. - Google Search
+No targets specified and no makefile found. Stop. - Google Search
+No targets specified and no makefile found. Stop. - Google Search
+No targets specified and no makefile found. Stop. - Google Search
+objective c - No targets specified and no makefile found - Stack Overflow
+opengl development libraries - Google Search
+opengl development libraries - Google Search
+OpenGL development libraries & headers installed to compile with OpenGL - Google Search
+OpenGL development libraries & headers installed to compile with OpenGL - Google Search
+opengl development libraries catalina - Google Search
+opengl development libraries catalina - Google Search
+opengl development library download mac - Google Search
+opengl development library download mac - Google Search
+opengl development on macOs Catalina : opengl
+opengl development on macOs Catalina : opengl
+opengl development under catalina - Google Search
+opengl development under catalina - Google Search
+opengl development under catalina - Google Search
+opengl development under catalina - Google Search
+OpenGL not found on newer macOS · Issue #2208 · ziglang/zig · GitHub
+OpenGL SDK
+OpenGL SDK
+OpenGL SDK
+OpenGL Setup in macOS | Giovanni Codes
+OpenGL Setup in macOS | Giovanni Codes
+OpenGL/Binaries at master · McNopper/OpenGL · GitHub
+OpenGL/Binaries at master · McNopper/OpenGL · GitHub
+OpenGL/GLUS at master · McNopper/OpenGL · GitHub
+OpenGL/GLUS at master · McNopper/OpenGL · GitHub
+PrBoom - Linux/UNIX Installation
+PrBoom - Mac OS X Installation
+PrBoom - Mac OS X Installation
+PrBoom - Project Homepage
+PrBoom Plus - Google Search
+PrBoom Plus - Google Search
+prboom plus shaders - Google Search
+prboom plus shaders - Google Search
+prboom-plus - Browse /doom-plus at SourceForge.net
+prboom-plus - Browse /doom2-plus at SourceForge.net
+prboom-plus - Browse /prboom-plus at SourceForge.net
+prboom-plus - Browse /prboom-plus at SourceForge.net
+prboom-plus - Browse /prboom-plus at SourceForge.net
+prboom-plus - Browse /prboom-plus/2.5.1.4 at SourceForge.net
+prboom-plus - Browse /prboom-plus/2.5.1.4 at SourceForge.net
+prboom-plus - Browse /prboom-plus/2.5.1.4 at SourceForge.net
+prboom-plus - Browse Files at SourceForge.net
+prboom-plus - Browse Files at SourceForge.net
+prboom-plus - Browse Files at SourceForge.net
+prboom-plus command line - Google Search
+prboom-plus command line - Google Search
+prboom-plus download | SourceForge.net
+prboom-plus download | SourceForge.net
+prboom-plus download | SourceForge.net
+prboom-plus download | SourceForge.net
+prboom-plus download | SourceForge.net
+prboom-plus-macos-x64/documentation at master · scott-d-bowen/prboom-plus-macos-x64
+PrBoom-plus: Change Log
+PrBoom-plus: Main
+PrBoom-plus: Main
+PrBoom-plus: Main
+Receiving error during automake command in ubuntu 14 - Stack Overflow
+relevant OpenGL development libraries & headers installed to compile with OpenGL support - Google Search
+relevant OpenGL development libraries & headers installed to compile with OpenGL support - Google Search
+repos - Revision 4551: /
+repos - Revision 4551: /branches
+repos - Revision 4551: /branches/prboom-plus-24-shaders
+repos - Revision 4551: /branches/prboom-plus-24-shaders
+repos - Revision 4551: /branches/prboom-plus-24-shaders/prboom2
+repos - Revision 4551: /branches/prboom-plus-24-shaders/prboom2/src
+repos - Revision 4551: /branches/prboom-plus-24/prboom2
+required file 'config.h.in' not found - Google Search
+required file 'config.h.in' not found - Google Search
+scott-d-bowen/prboom-plus-macos-x64: An experimental version of PrBoom Plus, ported to macOS (Apple: OS X) Catalina that is purely 64-bit
+The Missing Package Manager for macOS (or Linux) — Homebrew
+TiMidity++
+TiMidity++ - Browse /TiMidity++/TiMidity++-2.13.2 at SourceForge.net
+TiMidity++ download | SourceForge.net
+Top OpenGL topics - Khronos Forums
+Usage Tutorial // OpenGL
+where does glboom install to on macos? - Google Search
+where does glboom install to on macos? - Google Search
+You must have the relevant OpenGL development libraries & headers installed to compile with OpenGL support - Google Search
+You must have the relevant OpenGL development libraries & headers installed to compile with OpenGL support - Google Search
+You must have the relevant OpenGL development libraries & headers installed to compile with OpenGL support - Google Search
+You must have the relevant OpenGL development libraries & headers installed to compile with OpenGL support - Google Search
 
