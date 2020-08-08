@@ -1,0 +1,6 @@
+dyld: Library not loaded: /usr/local/opt/sdl/lib/libSDL-1.2.0.dylib
+  Referenced from: /Users/sdb/Games/PrBoomPlus (macOS)/prboom-plus-sdb-experimental
+  Reason: image not found
+  
+Solution: Install HOMEBREW, then use HOMEBREW to install SDL (v1.2.x)
+
