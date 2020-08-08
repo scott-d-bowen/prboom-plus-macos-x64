@@ -3,4 +3,6 @@ dyld: Library not loaded: /usr/local/opt/sdl/lib/libSDL-1.2.0.dylib
   Reason: image not found
   
 Solution: Install HOMEBREW, then use HOMEBREW to install SDL (v1.2.x)
+e.g. % brew install sdl
+
 
